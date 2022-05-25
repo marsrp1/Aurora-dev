@@ -1,4 +1,4 @@
-# Aurora - Unified Lighting Effects
+# Aurora - Unified Lighting Effects r
 ![Aurora Logo](http://i.imgur.com/ZkxyAyp.png)
 
 [Link to Aurora's webpage, includes some demos and changelogs](http://project-aurora.com/)
